@@ -126,6 +126,7 @@ Improve the user interface
 
 👩‍💻 Author
 Astha Shrivastava
+
 Komal Ojha
 
 GitHub: @komal-alis
