@@ -33,29 +33,25 @@ NumPy
 📂 Project Structure
 
 Fake-News-Detection-Using-Deep-Learning/
-
 │
-
-├── app_streamlit.py
-
-├── model.h5
-
-├── vectorizer.pkl
-
-├── requirements.txt
-
 ├── .gitignore
-
-└── README.md
+├── README.md
+├── app_streamlit.py
+├── model.h5
+├── requirements.txt
+└── vectorizer.pkl
 
 File Description
 
-app_streamlit.py	Main Streamlit application
-model.h5	Trained deep learning model
-vectorizer.pkl	Saved TF-IDF vectorizer
-requirements.txt	Required Python libraries
-.gitignore	Files ignored by Git
-README.md	Project documentation
+| File               | Description                      |
+| ------------------ | -------------------------------- |
+| `.gitignore`       | Files and folders ignored by Git |
+| `README.md`        | Project documentation            |
+| `app_streamlit.py` | Main Streamlit application       |
+| `model.h5`         | Trained deep learning model      |
+| `requirements.txt` | Required Python libraries        |
+| `vectorizer.pkl`   | Saved TF-IDF vectorizer          |
+
 
 🔄 How It Works
 
